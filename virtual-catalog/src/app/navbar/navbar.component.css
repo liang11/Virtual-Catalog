@@ -1,0 +1,8 @@
+
+.navbar-brand {
+    filter: saturate(175%) contrast(65%);
+}
+
+.navbar {
+    padding: 0.5rem 2rem;
+}
